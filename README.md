@@ -1,2 +1,2 @@
-# FEUP_CG
-Project of the UC Computer Graphics. LEIC, Year 3, Semester 2.
+# Computer Graphics
+Project and pratical exercises of the UC Computer Graphics.
